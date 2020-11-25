@@ -4,7 +4,7 @@
 **Time Completed**: January 2020 
 
 ## Technical
-**Method**: K-means and DBSCAN clustering
+**Method**: K-means and DBSCAN clustering                     
 **Language**: Python (notebook)        
 
 <br />
